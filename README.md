@@ -11,8 +11,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" height="200" width="190" src="https://user-images.githubusercontent.com/86890231/140823979-15e76a25-5868-4b63-933b-f5cb557ea59a.gif">
 </div>
   
+  
+
   ##
   
  <div> 
